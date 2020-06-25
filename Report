@@ -10,6 +10,7 @@ HOUGH LINE TRANSFORM ALGORITHM
 DISTORTION CORRECTION ALGORITHM
 RANSAC ALGORITHM
 CANNY ALGORITHM
+
 Conclusion:
 In the methodology, we made use of the Python library and its functions such as the Canny Function through which we achieved edge detection. 
 Then we used the Hough Transform technique that detected the straight lines in the image and identified the lane lines.
