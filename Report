@@ -1,0 +1,17 @@
+# Lane-detection-in-autonomous-cars.
+Lane detection in autonomous cars.
+In this project you will detect lane lines in images using Python and OpenCV.
+OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.
+ALGORITHM USED IN OUR PROJECT:
+
+BIRDS EYE VIEW ALGORITHM
+KALMAN FILTER ALGORITHM
+HOUGH LINE TRANSFORM ALGORITHM
+DISTORTION CORRECTION ALGORITHM
+RANSAC ALGORITHM
+CANNY ALGORITHM
+Conclusion:
+In the methodology, we made use of the Python library and its functions such as the Canny Function through which we achieved edge detection. 
+Then we used the Hough Transform technique that detected the straight lines in the image and identified the lane lines.
+We made use of the polar coordinates since the Cartesian coordinates don’t give us an appropriate slope of vertical and horizontal lines.
+Finally, we combined the lane image with our zero-intensity image to show lane lines
